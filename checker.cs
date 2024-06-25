@@ -3,7 +3,7 @@ using System.Diagnostics;
  
 namespace paradigm_shift_csharp
 {
-class BatteryChecker
+class Checker
 {
      static bool IsTemperatureOutOfRange(float temperature)
      {
